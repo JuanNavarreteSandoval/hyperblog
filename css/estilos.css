@@ -17,10 +17,14 @@ margin: 0;
 padding: 0.5em;
 }
 
+<<<<<<< HEAD
 #cabecera #logo {
 width: 20px;
 vertical-align: middle;
 }
+=======
+
+>>>>>>> footer
 
 #cabecera #tagline
 {
@@ -42,8 +46,14 @@ margin: 0 auto;
 font-size: 20px;
 
 }
-
-#post{
-background: white;
+#post
+{
 padding: 1em;
+}
+
+#footer {
+background: #777;
+color: white;
+text-align: center;
+padding: 0.5em;
 }
